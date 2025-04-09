@@ -18,7 +18,7 @@ Contributing to 55GMS is simple, all you need is to fork this repository and cre
 > [!NOTE]
 > You **can't** deploy to static hosts, like Netlify, Cloudflare Pages, or GitHub Pages.
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/55gms/55GMS)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/rbtvtelugu/55GMS)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/55gms/55GMS&branch=main&name=55gms)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/55gms/55GMS)
 
